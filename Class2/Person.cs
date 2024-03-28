@@ -8,7 +8,7 @@ using System.Threading.Tasks;
 namespace Class2
 {
     public class Person
-    {sss
+    {
         #region 1)
         //public string Name { get; set; }
 
